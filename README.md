@@ -13,7 +13,7 @@ Do you want to see it in action? Here is a working version deployed to heroku [h
 
 
 ### How do I get set up?
-
+ 
 To set it up on your local machine here is what you need to do. Install Ruby & Rails. Clone this repo using the following command:
   
 ```
