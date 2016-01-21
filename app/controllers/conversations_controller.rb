@@ -33,8 +33,6 @@ class ConversationsController < ApplicationController
     redirect_to mailbox_inbox_path
   end
 
-
-
   private
 
   def conversation_params
